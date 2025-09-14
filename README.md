@@ -8,6 +8,7 @@ As alunas responsáveis pelo trabalho são:
 * ۶ৎ **Ana Clara dos Santos Moreira**
 * ۶ৎ **Isabela Rangel**
 * ۶ৎ **Isabelli Arantes Galvão**
+  
   Todas do **2J - Informática** 💻
 
 ---
