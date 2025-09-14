@@ -79,4 +79,4 @@ A ideia é simples, mas cheia de significado: registrar informações de forma o
 
 ---
 
-✨ Trabalho feito com carinho pelas alunas do **2J** 🌸
+❀ Trabalho feito com carinho pelas alunas do **2J** ❀
