@@ -1,6 +1,6 @@
 
 
-# ㅤ♡   Projeto Banco de Usuários — Inclusão com Carinhoㅤ♡
+# ㅤ♡     Projeto Banco de Usuários — Inclusão com Carinhoㅤ♡
 
 Este projeto foi desenvolvido no **3º bimestre da disciplina de Redes**, ministrada pelo professor **Bruno**.
 As alunas responsáveis pelo trabalho são:
