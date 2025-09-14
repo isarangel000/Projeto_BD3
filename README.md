@@ -80,7 +80,3 @@ A ideia é simples, mas cheia de significado: registrar informações de forma o
 ---
 
 ✨ Trabalho feito com carinho pelas alunas do **2J** 🌸
-
----
-
-quer que eu deixe esse README **mais formalzinho (padrão trabalho escolar)** ou **continue nesse estilo fofo com emojis**?
